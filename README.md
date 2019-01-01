@@ -10,11 +10,11 @@ This means that most of the optimization algorithms must be revisited for proper
 Example of a random graph with 4 clusters (from clustering-with-mst/parallel_implementation.ipynb)
 ### Graph
 <p align = "center">
-<img src="initial40.png">
+<img src="initial40.PNG">
 </p>
 ### Minimum Spanning Tree of Graph
 <p align = "center">
-<img src="MST40.png">
+<img src="MST40.PNG">
 </p>
 
 From here, a method of cutting edges over a certain changing threshold which increases at every step, can form clusters.
